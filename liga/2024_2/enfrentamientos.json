@@ -1,0 +1,195 @@
+{
+    "jornadas":{
+        "jornada_1":{
+            "fecha": "31 de Agosto de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Doro de matar",
+                "equipo_2": "Descanso",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Tacos de Asada",
+                "equipo_2": "Jack y sus amigos",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Spider Watchers",
+                "equipo_2": "Flying Whales",
+                "fecha":"",
+                "ganador": "equipo_2",
+                "resultado":"1-2"
+            }
+        },
+        "jornada_2":{
+            "fecha": "",
+            "enfrentamiento_1":{
+                "equipo_1": "Descanso",
+                "equipo_2": "Tacos de Asada",
+                "fecha":"",
+                "ganador": ""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Spider Watchers",
+                "equipo_2": "Jack y sus amigos",
+                "fecha":"",
+                "ganador": "equipo_2",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Doro de matar",
+                "equipo_2": "Flying Whales",
+                "fecha":"",
+                "ganador": "equipo_2",
+                "resultado":"1-2"
+            }
+        },
+        "jornada_3":{
+            "fecha": "07 de Septiembre de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Flying Whales",
+                "equipo_2": "Descanso",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Tacos de Asada",
+                "equipo_2": "Spider Watchers",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Jack y sus amigos",
+                "equipo_2": "Doro de matar",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            }
+        },
+        "jornada_4":{
+            "fecha": "07 de Septiembre de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Descanso",
+                "equipo_2": "Jack y sus amigos",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Flying Whales",
+                "equipo_2": "Tacos de Asada",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Doro de matar",
+                "equipo_2": "Spider Watchers",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            }
+        },
+        "jornada_5":{
+            "fecha": "14 de Septiembre de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Spider Watchers",
+                "equipo_2": "Descanso",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Jack y sus amigos",
+                "equipo_2": "Flying Whales",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Tacos de Asada",
+                "equipo_2": "Doro de matar",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            }
+        },
+        "jornada_6":{
+            "fecha": "14 de Septiembre de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Descanso",
+                "equipo_2": "Doro de matar",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Jack y sus amigos",
+                "equipo_2": "Tacos de Asada",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Spider Watchers",
+                "equipo_2": "Flying Whales",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            }
+        },
+        "jornada_7":{
+            "fecha": "21 de Septiembre de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Tacos de Asada",
+                "equipo_2": "Descanso",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Jack y sus amigos",
+                "equipo_2": "Spider Watchers",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Flying Whales",
+                "equipo_2": "Doro de matar",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            }
+        },
+        "jornada_8":{
+            "fecha": "21 de Septiembre de 2024",
+            "enfrentamiento_1":{
+                "equipo_1": "Descanso",
+                "equipo_2": "Flying Whales",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_2":{
+                "equipo_1": "Spider Watchers",
+                "equipo_2": "Tacos de Asada",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            },
+            "enfrentamiento_3":{
+                "equipo_1": "Doro de matar",
+                "equipo_2": "Jack y sus amigos",
+                "fecha":"",
+                "ganador": "",
+                "resultado":""
+            }
+        }
+    }
+}
