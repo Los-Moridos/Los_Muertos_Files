@@ -58,11 +58,11 @@
                 "hora": "11:00 PM",
                 "equipo_1": {
                     "nombre": "Doro de matar",
-                    "puntos": ""
+                    "puntos": "1"
                 },
                 "equipo_2": {
                     "nombre": "Flying Whales",
-                    "puntos": ""
+                    "puntos": "2"
                 }
             },
             "enfrentamiento_3": {
