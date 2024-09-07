@@ -124,11 +124,11 @@
                 "hora": "10:00 PM",
                 "equipo_1": {
                     "nombre": "Flying Whales",
-                    "puntos": "2"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Tacos de Asada",
-                    "puntos": "1"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_2": {
