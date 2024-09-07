@@ -85,11 +85,11 @@
                 "hora": "08:00 PM",
                 "equipo_1": {
                     "nombre": "Tacos de Asada",
-                    "puntos": "1"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Spider Watchers",
-                    "puntos": "2"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_2": {
@@ -97,7 +97,7 @@
                 "hora": "09:00 PM",
                 "equipo_1": {
                     "nombre": "Jack y sus amigos",
-                    "puntos": "2"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Doro de matar",
@@ -140,7 +140,7 @@
                 },
                 "equipo_2": {
                     "nombre": "Spider Watchers",
-                    "puntos": "1"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_3": {
@@ -163,11 +163,11 @@
                 "hora": "08:00 PM",
                 "equipo_1": {
                     "nombre": "Jack y sus amigos",
-                    "puntos": "2"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Flying Whales",
-                    "puntos": "1"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_2": {
@@ -175,7 +175,7 @@
                 "hora": "09:00 PM",
                 "equipo_1": {
                     "nombre": "Tacos de Asada",
-                    "puntos": "1"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Doro de matar",
@@ -202,11 +202,11 @@
                 "hora": "10:00 PM",
                 "equipo_1": {
                     "nombre": "Jack y sus amigos",
-                    "puntos": "2"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Tacos de Asada",
-                    "puntos": "1"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_2": {
@@ -214,11 +214,11 @@
                 "hora": "11:00 PM",
                 "equipo_1": {
                     "nombre": "Spider Watchers",
-                    "puntos": "1"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Flying Whales",
-                    "puntos": "2"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_3": {
@@ -241,11 +241,11 @@
                 "hora": "08:00 PM",
                 "equipo_1": {
                     "nombre": "Jack y sus amigos",
-                    "puntos": "2"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Spider Watchers",
-                    "puntos": "1"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_2": {
@@ -280,11 +280,11 @@
                 "hora": "10:00 PM",
                 "equipo_1": {
                     "nombre": "Tacos de Asada",
-                    "puntos": "1"
+                    "puntos": ""
                 },
                 "equipo_2": {
                     "nombre": "Flying Whales",
-                    "puntos": "2"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_2": {
@@ -296,7 +296,7 @@
                 },
                 "equipo_2": {
                     "nombre": "Spider Watchers",
-                    "puntos": "1"
+                    "puntos": ""
                 }
             },
             "enfrentamiento_3": {
