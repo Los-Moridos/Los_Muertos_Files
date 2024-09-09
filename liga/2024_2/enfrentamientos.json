@@ -97,11 +97,11 @@
                 "hora": "09:00 PM",
                 "equipo_1": {
                     "nombre": "Jack y sus amigos",
-                    "puntos": ""
+                    "puntos": "0"
                 },
                 "equipo_2": {
                     "nombre": "Doro de matar",
-                    "puntos": ""
+                    "puntos": "2"
                 }
             },
             "enfrentamiento_3": {
