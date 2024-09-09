@@ -133,14 +133,14 @@
             },
             "enfrentamiento_2": {
                 "fecha": "8 de Septiembre de 2024",
-                "hora": "11:00 PM",
+                "hora": "08:00 PM",
                 "equipo_1": {
                     "nombre": "Doro de matar",
-                    "puntos": ""
+                    "puntos": "2"
                 },
                 "equipo_2": {
                     "nombre": "Spider Watchers",
-                    "puntos": ""
+                    "puntos": "0"
                 }
             },
             "enfrentamiento_3": {
